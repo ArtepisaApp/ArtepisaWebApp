@@ -8,7 +8,7 @@ const STORE = {
     ot:         "ordenes_trabajo.json",
     oc:         "ordenes_compra.json",
     inventario: "inventario.json",
-    cobros:     "cobros.json"          // 👈 NUEVO
+    cobros:     "cobros.json"         
   }
 };
 
